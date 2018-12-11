@@ -1,6 +1,6 @@
 # mobile-hybrid-apps-confs
 
-An open source community-curated list of mobile hybrid apps conferences around the world for mobile developers who like to write once deploy everywhere.
+An open source community-curated list of mobile hybrid apps conferences around the world for mobile developers who like to write once deploy everywhere. #reactNative #flutter #ionic #nativeScript #xamarin
 
 Adding a conference
 -------------------
